@@ -5,8 +5,15 @@
 ## Usage
 ```
 docker-compose build (初回のみ実行)
+```
+```
 docker-compose up -d
 docker exec -it python-app sh
+```
+コンテナーにログイン（#が表示） 
+
+次を（Python）コマンドします
+```
 python <実行したいファイル名>
 ```
 
