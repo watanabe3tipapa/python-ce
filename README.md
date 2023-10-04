@@ -24,5 +24,8 @@ python getaddress_otaru.py
 ```
 python getaddress_minatoku.py
 ```
-
+  
+---
+> This repository is for a workshop I will be attending.
+  
 ^C
