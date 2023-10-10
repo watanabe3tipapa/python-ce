@@ -24,7 +24,11 @@ python getaddress_otaru.py
 ```
 python getaddress_minatoku.py
 ```
-  
+ 
+---
+
+> See [Wiki](https://github.com/watanabe3tipapa/python-ce/wiki) for more details
+
 ---
 > This repository is for a workshop I will be attending.
   
