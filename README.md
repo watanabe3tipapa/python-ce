@@ -7,7 +7,7 @@
 docker-compose build (初回のみ実行)
 ```
 ```
-docker-compose up -d
+docker compose up -d
 docker exec -it python-app sh
 ```
 コンテナーにログイン（#が表示） 
