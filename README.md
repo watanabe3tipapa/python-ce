@@ -4,7 +4,7 @@
 
 ## Usage
 ```
-docker-compose build (初回のみ実行)
+docker compose build (初回のみ実行)
 ```
 ```
 docker compose up -d
